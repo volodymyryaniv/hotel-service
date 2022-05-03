@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "voypost-test-8eeac",
+    "voypost-test": "voypost-test-8eeac"
+  },
+  "targets": {}
+}
